@@ -23,7 +23,7 @@ class CustomListView extends StatelessWidget {
         ),
         SizedBox(height: 30),
         SizedBox(
-          height: 250,
+          height: 300,
           width: double.infinity,
           //color: Colors.amber,
           //GestureDetector
